@@ -49,6 +49,11 @@ word-spacing: 1px;
     display: none;
 }
 
+.first{
+    color: hsl(158, 36%, 37%);
+    font-family: 'fraunces', serif;
+}
+
 .secondp{
 text-decoration: line-through;
 margin-top: 33px;
